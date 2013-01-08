@@ -1,7 +1,7 @@
 require.config({
   baseUrl: './lib',
   paths: {
-    'app': '../../src'
+    'app': '../..'
   },
   map: { '*': { 'jquery': 'zepto' } }
 });
