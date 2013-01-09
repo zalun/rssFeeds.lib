@@ -1,3 +1,4 @@
+console.log('fix');
 define(function(require) {
 
   return {

@@ -1,0 +1,24 @@
+{
+  "version": "0.1",
+  "name": "rssFeeds lib test app 1",
+  "description": "Test the rssFeeds library",
+  "launch_path": "/",
+  "icons": {
+    "16": "/img/icons/mortar-16.png",
+    "48": "/img/icons/mortar-48.png",
+    "128": "/img/icons/mortar-128.png"
+  },
+  "developer": {
+    "name": "Piotr Zalewa",
+    "url": "http://piotr.zalewa.info/"
+  },
+  "installs_allowed_from": ["*"],
+  "appcache_path": "/cache.manifest",
+  "locales": {
+  },
+  "permissions": {
+    "browser":{},
+    "systemXHR":{}
+  },
+  "default_locale": "en"
+}
